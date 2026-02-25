@@ -1,4 +1,4 @@
-**Structure Projects within**
+**Structure of Projects within**
 
 - Data Science/Data Visulization
 - ML
